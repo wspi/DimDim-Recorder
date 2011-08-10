@@ -9,3 +9,5 @@ saves the video + audio to the flv format
 just run it dimdim_recorder.py &
 
 You may need to change the path to the log, and the destination directory
+You need to change your host, port
+
